@@ -1,6 +1,6 @@
 ## These are aliases nice to put in my `~/.profile or ~/.bashrc` files. 
 
-'''
+```bash
 bind '"\e[A":history-search-backward'
 bind '"\e[B":history-search-forward'
 alias dt="ls -ltr"
