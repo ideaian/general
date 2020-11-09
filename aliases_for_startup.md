@@ -1,10 +1,4 @@
-
-
-#/bin/bash
-## These are aliases nice to put in my `~/.profile or ~/.bashrc` files. 
-
 echo "Loading functionality from ~/.terminal_functions"
-
 bind '"\e[A":history-search-backward'
 bind '"\e[B":history-search-forward'
 
@@ -44,4 +38,3 @@ alias gl="git log"
 alias v="vim"
 alias ca="conda activate"
 alias cda="conda deactivate"
-
