@@ -38,3 +38,4 @@ alias gl="git log"
 alias v="vim"
 alias ca="conda activate"
 alias cda="conda deactivate"
+
