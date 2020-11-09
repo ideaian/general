@@ -1,4 +1,4 @@
-'''bash
+```bash
 echo "Loading functionality from ~/.terminal_functions"
 bind '"\e[A":history-search-backward'
 bind '"\e[B":history-search-forward'
@@ -40,4 +40,4 @@ alias v="vim"
 alias ca="conda activate"
 alias cda="conda deactivate"
 
-'''
+```
